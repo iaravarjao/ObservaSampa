@@ -1,5 +1,5 @@
 # ObservaSampa
-📊 Visualizando dados da Secretaria Municipal da Saúde de São Paulo, prática de gráficos de regressão linear em linguagem Python.
+📊 Visualizando dados da Secretaria Municipal da Saúde de São Paulo, prática de gráficos de regressão linear em linguagem Python, utilizando o Google Colab.
 
   O indicador utilizado é o de Taxa de mortalidade infantil (por mil nascidos vivos) e expressa o número de óbitos de menores de 1 ano de idade, por mil nascidos vivos, na população residente em São Paulo no período de 2009 a 2021. Os dados foram extraídos do site ObservaSampa http://observasampa.prefeitura.sp.gov.br/saude acesso em agosto/2022. 
 
